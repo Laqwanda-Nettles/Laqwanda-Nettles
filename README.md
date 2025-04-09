@@ -21,7 +21,8 @@ I'm a passionate Full Stack Developer and recent graduate of the **Codex Academy
 | [Peace of Mind](https://github.com/Laqwanda-Nettles/Peace-of-Mind) | A mental health journaling app with mood tracking and quote inspiration. |
 | [Community Marketplace](https://github.com/Codex-Level-3/community-marketplace) | A full-stack app for buying/selling community items built with Codex team collaboration. |
 | [Recipe App](https://github.com/Laqwanda-Nettles/Recipe-App) | A searchable recipe manager built with React and styled-components. |
-| [Portfolio Site](https://github.com/Laqwanda-Nettles/Personal-Webpage) | My personal portfolio built from scratch with custom styling and animations. |
+| [Personal Webpage](https://github.com/Laqwanda-Nettles/Personal-Webpage) | One of my first projects — a blog-inspired website using HTML, CSS, Bootstrap, and JavaScript.
+ |
 
 ---
 
