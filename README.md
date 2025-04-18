@@ -19,8 +19,8 @@ I'm a passionate Full Stack Developer and recent graduate of the **Codex Academy
 |--------|-------------|
 | [Messiah House](https://github.com/Laqwanda-Nettles/messiah-house) | A donation-based nonprofit site with a clean UI and robust backend functionality. |
 | [Peace of Mind](https://github.com/Laqwanda-Nettles/Peace-of-Mind) | A mental health journaling app with mood tracking and quote inspiration. |
-| [Community Marketplace](https://github.com/Codex-Level-3/community-marketplace) | A full-stack app for buying/selling community items built with Codex team collaboration. |
-| [Recipe App](https://github.com/Laqwanda-Nettles/Recipe-App) | A searchable recipe manager built with React and styled-components. |
+| [Community Marketplace](https://github.com/Codex-Level-3/community-marketplace) | A marketplace app for buying/selling community items built with Codex team collaboration. Implementing Firebase Firestore for cloud-based CRUD functionality. |
+| [Recipe App](https://github.com/Laqwanda-Nettles/Recipe-App) | A class-oriented JavaScript app that fetches recipes from a food API, styled with HTML, CSS, and SASS using the 7-1 architecture. |
 | [Personal Webpage](https://github.com/Laqwanda-Nettles/Personal-Webpage) | One of my first projects — a blog-inspired website using HTML, CSS, Bootstrap, and JavaScript. |
 
 ---
